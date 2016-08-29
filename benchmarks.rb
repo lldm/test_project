@@ -4,6 +4,11 @@ main
 main2()
 test()
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+1
+23
+>>>>>>> a235715... modification from dev4
 # 2
 =======
 1
